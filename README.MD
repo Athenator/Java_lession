@@ -1,1 +1,1 @@
-# Курс по джаве от GeekBrains.
+# Курс по Java от GeekBrains.
